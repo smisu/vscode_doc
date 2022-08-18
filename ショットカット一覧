@@ -1,0 +1,19 @@
+# VScode ショートカット一覧
+
+[Ctrl] + /     コメントアウトする
+[Ctrl] + [Enter]  　カーソル行の下に空行を挿入
+[Ctrl] + [Shift] + [Enter] 　カーソル行の上に空行を挿入
+[Ctrl] + P  　クイックオープン（ファイル名検索）　or [Ctrl] + E
+
+[Shift] + [Alt] + F  　自動インデント
+[Ctrl] + K  ->  V    HTMLファイルをプレビューする(HTML Preview)
+[Ctrl] + ↓　スクロール
+
+[Home] カーソルを行の先頭に
+[End] 　カーソルを行の末尾に
+[Ctrl] + L   　カーソル行の選択
+[Alt] + ↓　カーソル行の移動
+[Ctrl] +  @  　ターミナル表示
+[Alt] + Z    コードの折返し設定を切り替える
+
+

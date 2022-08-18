@@ -1,0 +1,8 @@
+VSCode行の折り返しの設定
+
+ショートカットコマンド： ［Alt］＋［Z］
+
+繰り返し設定：　
+設定/ユーザー/Editor: Word Wrap をonに設定する
+設定/ワークスペース/Editor: Word Wrap をonに設定する
+

@@ -1,0 +1,15 @@
+ソースコード自動校正処理のON・OFFの切り替え
+
+/home/worker/public_rails/workspace.code-workspace　　　←ワークスペース用
+
+editor.formatOnSave
+98行目
+       "[ruby]": {
+            "editor.formatOnSave": false,　　←　ここをtrueにすると校正処理が実行される
+            "editor.defaultFormatter": "misogi.ruby-rubocop",
+            //"editor.defaultFormatter": "jnbt.vscode-rufo",
+            "editor.tabSize": 2
+        },
+
+※通常は新規ファイルを作成したときのみON(true)にする。それ以外はfalseのままで行う。
+※システム全体の設定はsetting.jsonのeditor.formatOnSaveで設定する

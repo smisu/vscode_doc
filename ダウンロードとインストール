@@ -1,0 +1,56 @@
+
+(1) ダウンロード
+https://code.visulalstudio.com/
+からダウンロードファイルをダウンロードする
+VSCodeUserSetup-x64-1.66.2.exe
+
+(2) インストール
+ダウンロードファイルを実行する。
+メッセージに従いインストールする。
+
+(3) インストールファイルの確認
+/Users/s_mis/AppData/Local/Programs/Microsoft VS Code/
+実行ファイル： Code.exe
+
+(4) 拡張機能（ライブラリ）
+LOCAL - インストール済み：
+Japanese Language Pack for Visual Studio Code （日本語）
+Remote - SSH
+Slim
+VSCode Ruby
+vscode-icons
+Android iOS Emulator (SSH: server install)
+Debugger for Java (SSH: server install)
+Extension Pack for Java (SSH: server install)
+HTML Preview (SSH: server install)
+IntelliCode (SSH: server install)
+Language Support for Java(TM) by Red Hat (SSH: server install)
+Live Server (SSH: server install)
+Live Share
+Maven for Java
+Project Manger for Java
+Remote - SSH: Editing Configuation Files
+Remote - WSL
+Test Runner for Java (SSH: server install)
+SSH: SAIGAI-NUC - インストール済み：
+Beautify
+Beautify css/sass/scss/less
+Color Highlight
+endwise
+ERB formatter/Beautify
+Git History
+GitLab Workflow
+indent-rainbow
+Japanese Language Pack for Visual Studio Code
+Live Share
+One Dark Pro
+Rails
+Ruby
+Ruby Solargraph
+ruby-rubocop
+Rufo - Ruby formatter
+rufo-vscode
+vscode-gemfile
+vscode-pdf
+Emacs Friendly Keymap
+Slim
